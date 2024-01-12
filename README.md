@@ -54,4 +54,4 @@ Deployment:
 Upload the entire project to a web server to make it accessible online.
 Ensure all assets (images, stylesheets, scripts) are properly linked for smooth functioning.
 Contributors
-CLEVER_WEB_DEV
+[CLEVER_WEB_DEV]
